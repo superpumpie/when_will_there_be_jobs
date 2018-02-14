@@ -1,0 +1,214 @@
+Subject: LINGUIST List Daily Summary for Mon Feb 22 2016
+From: "The LINGUIST List \(Lite version\) via LINGLITE" <linglite@listserv.linguistlist.org>
+Date: 23/02/2016, 06:01
+To: LINGLITE@listserv.linguistlist.org
+Reply-to: linglite@listserv.linguistlist.org
+
+LINGUIST List Summary: Issues Posted on Mon Feb 22 2016.
+
+Moderators: linguist@linguistlist.org (Damir Cavar, Malgorzata E. Cavar)
+Reviews: reviews@linguistlist.org (Anthony Aristar, Helen Aristar-Dry, Sara Couture)
+
+Homepage: http://linguistlist.org
+
+*****************    LINGUIST List Support    *****************
+                   25 years of LINGUIST List!
+Please support the LL editors and operation with a donation at:
+           http://funddrive.linguistlist.org/donate/
+
+------------------------------------------------------------------------------
+
+27.918, FYI: New NIST Evaluation: Low Resource HLT Evaluation
+
+  1) From:      Shudong Huang <shudongh@gmail.com>
+     Subject:   New NIST Evaluation: Low Resource HLT Evaluation
+
+   http://linguistlist.org/issues/27/27-918.html
+
+
+27.919, Calls: Comp Ling, Discourse Analysis, Gen Ling, Text/Corpus Ling, Writing Systems/Turkey
+
+  1) From:      Erdem Akbas <erdemakbas@erciyes.edu.tr>
+     Subject:   Metadiscourse Across Genres: Mapping out interactions in spoken and written discourse
+
+   http://linguistlist.org/issues/27/27-919.html
+
+
+27.920, Calls: Applied Ling/Portugal
+
+  1) From:      Sílvia Araújo <techling.uminho@gmail.com>
+     Subject:   First International Conference on Language, Linguistics and Technology
+
+   http://linguistlist.org/issues/27/27-920.html
+
+
+27.921, Calls: Gen Ling/USA
+
+  1) From:      Covadonga Lamar Prieto <Covadonga.lamar-prieto@ucr.edu>
+     Subject:   Modern Language Association
+
+   http://linguistlist.org/issues/27/27-921.html
+
+
+27.922, Calls: Slavic Languages, Polish, Russian, Gen Ling, Lexicography/Ukraine
+
+  1) From:      Olexandra Palchevska <palch56@ukr.net>
+     Subject:   Linguistic Studies of Young Researchers
+
+   http://linguistlist.org/issues/27/27-922.html
+
+
+27.923, Calls: Applied Ling/Tunisia
+
+  1) From:      Zeineb Deymi <pedagogy2016@gmail.com>
+     Subject:   First International Conference on Language Teaching Pedagogy
+
+   http://linguistlist.org/issues/27/27-923.html
+
+
+27.924, Calls: Computational Ling, Translation/Germany
+
+  1) From:      Rajen Chatterjee <chatterjee@fbk.eu>
+     Subject:   Shared Task: Automatic Post-Editing
+
+   http://linguistlist.org/issues/27/27-924.html
+
+
+27.925, Calls: Cog Sci, Lang Acq, Phonology, Semantics, Syntax/Spain
+
+  1) From:      Ricardo Etxepare <retxepare@iker.cnrs.fr>
+     Subject:   Language Contact from an I-Language Perspective
+
+   http://linguistlist.org/issues/27/27-925.html
+
+
+27.926, Calls: Applied Ling/Portugal
+
+  1) From:      Birger Larsen <birger@hum.aau.dk>
+     Subject:   CLEF 2016: Conference and Labs of the Evaluation Forum
+
+   http://linguistlist.org/issues/27/27-926.html
+
+
+27.927, Calls: Cog Sci, General Ling, Lang Acq, Psycholing/USA
+
+  1) From:      Charles Chang <cc@bu.edu>
+     Subject:   41st Boston University Conference on Language Development
+
+   http://linguistlist.org/issues/27/27-927.html
+
+
+27.928, Confs: Computational Ling, Translation/Germany
+
+  1) From:      Rajen Chatterjee <chatterjee@fbk.eu>
+     Subject:   Shared Task: Automatic Post-Editing
+
+   http://linguistlist.org/issues/27/27-928.html
+
+
+27.929, Calls: Slavic, General Ling/Canada
+
+  1) From:      Joseph Schallert <joseph.schallert@utoronto.ca>
+     Subject:   Slavic Linguistics Society
+
+   http://linguistlist.org/issues/27/27-929.html
+
+
+27.930, Calls: Morphology, Pragmatics, Semantics, Syntax, Typology/Poland
+
+  1) From:      Marc Tang <tangsaiid@gmail.com>
+     Subject:   Nominal Classification in South-East Asia
+
+   http://linguistlist.org/issues/27/27-930.html
+
+
+27.931, Calls: General Ling/UK
+
+  1) From:      Sharaf Yassin <syiyas@essex.ac.uk>
+     Subject:   11th Language at the University of Essex Postgraduate Conference
+
+   http://linguistlist.org/issues/27/27-931.html
+
+
+27.932, Calls: Socioling/France
+
+  1) From:      Michael Gauthier <michael.gauthier.uni@gmail.com>
+     Subject:   Sociolinguistics Summer School 7
+
+   http://linguistlist.org/issues/27/27-932.html
+
+
+27.933, Confs: Computational Ling, Text/Corpus Ling/Germany
+
+  1) From:      Armin Hoenen <hoenen@em.uni-frankfurt.de>
+     Subject:   1st GSCL/CEDIFOR-Workshop on Corpora and Resources for Low Resource Languages with a Special Focus on Historical Languages
+
+   http://linguistlist.org/issues/27/27-933.html
+
+
+27.934, Confs: Romance, General Ling, Historical Ling, Lang Acq, Psycholing/USA
+
+  1) From:      Francisco Ordonez <francisco.ordonez@stonybrook.edu>
+     Subject:   Linguistic Symposium on Romance Languages 46
+
+   http://linguistlist.org/issues/27/27-934.html
+
+
+27.935, FYI: European Corpus of Academic Talk (EuroCoAT)
+
+  1) From:      Ana Piquer-Píriz <anapiriz@unex.es>
+     Subject:   European Corpus of Academic Talk (EuroCoAT)
+
+   http://linguistlist.org/issues/27/27-935.html
+
+
+27.936, FYI: UC Linguistics Faculty Pledge Support for Glossa
+
+  1) From:      Eric Bakovic <ebakovic@ucsd.edu>
+     Subject:   UC Linguistics Faculty Pledge Support for Glossa
+
+   http://linguistlist.org/issues/27/27-936.html
+
+
+27.937, Disc: Significance testing for corpus comparison
+
+  1) From:      Bettina Eiber <bettina.eiber@googlemail.com>
+     Subject:   Significance testing for corpus comparison
+
+   http://linguistlist.org/issues/27/27-937.html
+
+
+27.938, Disc: Percentages, norm, corpus, variants and borders
+
+  1) From:      Esad Halilović <esadhalilovic@gmx.com>
+     Subject:   Percentages, norm, corpus, variants and borders
+
+   http://linguistlist.org/issues/27/27-938.html
+
+
+27.939, Qs: Lexicography and variation: big data via Google?
+
+  1) From:      Stefan Dollinger <stefan.dollinger@sprak.gu.se>
+     Subject:   Lexicography and variation: big data via Google?
+
+   http://linguistlist.org/issues/27/27-939.html
+
+
+27.940, All: This Week's LINGUIST Notice Board
+
+   http://linguistlist.org/issues/27/27-940.html
+
+
+27.941, Review: Cog Sci; Pragmatics; Socioling: Yakpo, Stell (2015)
+
+  1) From:      Liubov Baladzhaeva <baladjaeva@gmail.com>
+     Subject:   Code-switching Between Structural and Sociolinguistic Perspectives
+
+   http://linguistlist.org/issues/27/27-941.html
+
+
+_______________________________________________
+LINGLITE mailing list
+LINGLITE@listserv.linguistlist.org
+http://listserv.linguistlist.org/mailman/listinfo/linglite
+

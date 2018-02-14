@@ -1,0 +1,44 @@
+Subject: LINGUIST List Daily Summary for Sun Aug 14 2016
+From: "The LINGUIST List \(Lite version\) via LINGLITE" <linglite@listserv.linguistlist.org>
+Date: 15/08/2016, 06:01
+To: LINGLITE@listserv.linguistlist.org
+Reply-to: linglite@listserv.linguistlist.org
+
+LINGUIST List Summary: Issues Posted on Sun Aug 14 2016.
+
+Moderators: linguist@linguistlist.org (Damir Cavar, Malgorzata E. Cavar)
+Reviews: reviews@linguistlist.org (Anthony Aristar, Helen Aristar-Dry,
+                                   Robert Coté, Michael Czerniakowski)
+
+Homepage: http://linguistlist.org
+
+*************************    LINGUIST List Support    ************************
+                               Fund Drive 2016
+                          25 years of LINGUIST List!
+       Please support the LL editors and operation with a donation at:
+                  http://funddrive.linguistlist.org/donate/
+
+              Thank you very much for your support of LINGUIST!
+------------------------------------------------------------------------------
+
+27.3271, Software: Release of BabelNet 3.7
+
+  1) From:      Roberto Navigli <navigli@di.uniroma1.it>
+     Subject:   Release of BabelNet 3.7
+
+   http://linguistlist.org/issues/27/27-3271.html
+
+
+27.3272, FYI: Call for Book Chapters: Language and Speech Processing Applications for Human-Computer Interaction
+
+  1) From:      Amitoj Singh <amitoj.pb@gmail.com>
+     Subject:   Call for Book Chapters: Language and Speech Processing Applications for Human-Computer Interaction
+
+   http://linguistlist.org/issues/27/27-3272.html
+
+
+_______________________________________________
+LINGLITE mailing list
+LINGLITE@listserv.linguistlist.org
+http://listserv.linguistlist.org/mailman/listinfo/linglite
+

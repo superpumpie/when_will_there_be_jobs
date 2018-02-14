@@ -1,0 +1,13 @@
+Mth	Prf	PsD	Oth	Ind
+Jan	106	25	6	55
+Feb	82	30	5	56
+Mar	107	21	8	49
+Apr	78	27	7	30
+May	65	20	6	45
+Jun	66	18	5	49
+Jul	57	26	12	44
+Aug	78	19	12	55
+Sep	175	14	8	44
+Oct	172	15	11	67
+Nov	96	16	6	50
+Dec	78	15	4	37

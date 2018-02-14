@@ -1,0 +1,19 @@
+If you are looking for a job in linguistics/computational linguistics, then one obvious question is: At what time of the year will there be jobs? Is there a particularly good/bad time? Or is there a constant stream of job openings?
+
+To answer this question, I wrote a script that crunched through newsletters from LinguistList [LL; link], which, among other things, contains job ads for linguists/computational linguists. The script went through all LL newsletters from 2015 t.e.m.* 2017, which is 864 emails. For each job opening, the script categorised whether it's an opening for 1) a PostDoc, 2) a professorship or similar, 3) some other academic position, or 4) an industry job. The script also counted how many jobs fell into which category for each month. 
+
+I've then plotted the results using R; below is the plot.
+
+[plot1]
+
+The graph tells us three things in particular: 1) Professorships and alike is the most frequent kind of job offering on LL, pushing everything else to the lower third of the scale. 2) If you want to become a prof, then Sep and Oct are a particularly good time to look for jobs. 3) That said, there's always some kind of a stream of jobs, for all four categories. 
+
+Because of 1), I've plotted the same things without professorships. This is the plot below.
+
+[plot2]
+
+The second plot reveals a few more things; let's focus on three points in particular. 1) The top three months for PostDocs are Jan, Feb, Apr, with Jul being a close runners up. Bar Jul, Q3 and Q4 is not the best time for PostDoc applications. 2) There's a constant stream of industry jobs. However, there's a big slump in Apr and a bit of a slump in Dec. An obvious hypothesis wrt Dec is that companies wait until after the Christmas break before putting ads out. I am not sure about Apr, tho. 3) The "other academic jobs" category peaks in Jul to Oct. 
+
+All files can be found on github [link:https://github.com/superpumpie/when_will_there_be_jobs]. If you like what you see and you want to give back a little bit, then feel free to send me some amount of Nanos. I like Nanos [link:https://nano.org/en]. Here's my address: xrb_3jkxm966yr6jtqgzhu7gk8ig5gkkjqc11qcrjy3dhik6wxz8955pidgyzb3d
+
+*t.e.m. = tot en met, Dutch for "to and including."

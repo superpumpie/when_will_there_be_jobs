@@ -1,0 +1,42 @@
+# some stuff found on:
+# https://www.harding.edu/fmccown/r/
+
+psd <- c(25, 30, 21, 27, 20, 18, 26, 19, 14, 15, 16, 15)
+prf <- c(106, 82, 107, 78, 65, 66, 57, 78, 175, 172, 96, 78)
+oth <- c(6, 5, 8, 7, 6, 5, 12, 12, 8, 11, 6, 4)
+ind <- c(55, 56, 49, 30, 45, 49, 44, 55, 44, 67, 50, 37)
+
+par(bg="white")
+plot(psd, type="o", col="blue", pch=16, ylim=c(0, 200), axes=FALSE, xlab="Months", ylab ="No. of job ads", cex.lab = 1.4)
+lines(prf, type="o", pch=16, col="darkblue")
+lines(oth, type="o", pch=16, col="grey")
+lines(ind, type="o", pch=16, col="red")
+title(main="Job postings on LinguistList
+throughout the year (avg. 2015-17)")
+axis(1, at=seq(1,12, by=1), lab=c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"), cex.axis=1)
+axis(side=2, at=seq(0, 200, by=25), cex.axis=1.25, las=1)
+abline(h=c(0, 25, 50, 75, 100, 125, 150, 175, 200), col="grey", lty=3)
+box()
+legend(1, 200, c("PostDocs","Professorships and alike    ", "Other academic jobs", "Industry jobs"), cex=1, fill=c("blue","darkblue", "grey", "red"), bg="white")
+
+dev.copy(png, 'when_will_there_be_jobs.png')
+dev.off()
+
+
+
+par(bg="white")
+plot(psd, type="o", col="blue", pch=16, ylim=c(0, 75), axes=FALSE, xlab="Months", ylab ="No. of job ads", cex.lab = 1.4)
+lines(oth, type="o", pch=16, col="grey")
+lines(ind, type="o", pch=16, col="red")
+title(main="Job postings on LinguistList
+throughout the year (avg. 2015-17)")
+axis(1, at=seq(1,12, by=1), lab=c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"), cex.axis=1)
+axis(side=2, at=seq(0, 80, by=10), cex.axis=1.25, las=1)
+abline(h=c(0, 10, 20, 30, 40, 50, 60, 70), col="grey", lty=3)
+box()
+legend(1, 75, c("PostDocs", "Other academic jobs    ", "Industry jobs"), cex=1, fill=c("blue", "grey", "red"), bg="white")
+
+dev.copy(png, 'when_will_there_be_jobs_im_no_prof.png')
+dev.off()
+
+

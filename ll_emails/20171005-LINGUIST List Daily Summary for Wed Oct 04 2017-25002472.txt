@@ -1,0 +1,166 @@
+Subject: LINGUIST List Daily Summary for Wed Oct 04 2017
+From: "The LINGUIST List \(Lite version\) via LINGLITE" <linglite@listserv.linguistlist.org>
+Date: 05/10/2017, 06:01
+To: LINGLITE@listserv.linguistlist.org
+Reply-to: linglite@listserv.linguistlist.org
+
+LINGUIST List Summary: Issues Posted on Wed Oct 04 2017
+
+Moderators: linguist@linguistlist.org (Damir Cavar, Malgorzata E. Cavar)
+Reviews: reviews@linguistlist.org (Helen Aristar-Dry, Robert Coté,
+                                   Michael Czerniakowski)
+Homepage: http://linguistlist.org
+
+
+28.4064, Review: AVAILABLE FOR REVIEW
+
+  1) From:      Helen Aristar-Dry <reviews@linguistlist.org>
+     Subject:   AVAILABLE FOR REVIEW
+
+   http://linguistlist.org/issues/28/28-4064.html
+
+
+28.4065, Diss: Computational Linguistics, Morphology, Typology: Matías Guzmán Naranjo: ''Analogy in formal grammar''
+
+  1) From:      Matías Guzmán Naranjo <mortem.dei@gmail.com>
+     Subject:   Analogy in formal grammar
+
+   http://linguistlist.org/issues/28/28-4065.html
+
+
+28.4066, Books: The Handbook of Technology and Second Language Teaching and Learning: Chapelle, Sauro (eds.)
+
+  1) From:      Patrick Wright <patwright@wiley.com>
+     Subject:   The Handbook of Technology and Second Language Teaching and Learning: Chapelle, Sauro (eds.)
+
+   http://linguistlist.org/issues/28/28-4066.html
+
+
+28.4067, Books: Linked Lexical Knowledge Bases: Gurevych, Eckle-Kohler, Matuschek
+
+  1) From:      David Schlangen <schlangen@morganclaypool.com>
+     Subject:   Linked Lexical Knowledge Bases: Gurevych, Eckle-Kohler, Matuschek
+
+   http://linguistlist.org/issues/28/28-4067.html
+
+
+28.4068, Books: Ten Lectures on Grammar in the Mind: Dąbrowska
+
+  1) From:      Maarten Frieswijk <frieswijk@brill.com>
+     Subject:   Ten Lectures on Grammar in the Mind: Dąbrowska
+
+   http://linguistlist.org/issues/28/28-4068.html
+
+
+28.4069, Books: Bayesian Analysis in Natural Language Processing: Cohen
+
+  1) From:      David Schlangen <schlangen@morganclaypool.com>
+     Subject:   Bayesian Analysis in Natural Language Processing: Cohen
+
+   http://linguistlist.org/issues/28/28-4069.html
+
+
+28.4070, Books: Language, Education and Neoliberalism: Flubacher, Del Percio (eds.)
+
+  1) From:      Elinor Robertson <marketing@multilingual-matters.com>
+     Subject:   Language, Education and Neoliberalism: Flubacher, Del Percio (eds.)
+
+   http://linguistlist.org/issues/28/28-4070.html
+
+
+28.4071, Books: Reconstrução fonológica e lexical do protocrioulo do Golfo da Guiné: Bandeira
+
+  1) From:      Ulrich Lueders <contact@lincom.eu>
+     Subject:   Reconstrução fonológica e lexical do protocrioulo do Golfo da Guiné: Bandeira
+
+   http://linguistlist.org/issues/28/28-4071.html
+
+
+28.4072, Books: I Die Every Day. Ten Libyan Tales: Almanna (ed.), Zagood, Pragnell (trs.), Al-Ja’aki
+
+  1) From:      Ulrich Lueders <contact@lincom.eu>
+     Subject:   I Die Every Day. Ten Libyan Tales: Almanna (ed.), Zagood, Pragnell (trs.), Al-Ja’aki
+
+   http://linguistlist.org/issues/28/28-4072.html
+
+
+28.4073, Books: Die Transkription der Sprachlaute des Internationalen Phonetischen Alphabets: Vorschläge zu einer Revision der systematischen Darstellung der IPA-Tabelle: Kalusky
+
+  1) From:      Ulrich Lueders <contact@lincom.eu>
+     Subject:   Die Transkription der Sprachlaute des Internationalen Phonetischen Alphabets: Vorschläge zu einer Revision der systematischen Darstellung der IPA-Tabelle: Kalusky
+
+   http://linguistlist.org/issues/28/28-4073.html
+
+
+28.4074, Confs: Phonetics, Phonology/Taiwan
+
+  1) From:      Hui-chuan Huang <hcjhuang@gate.sinica.edu.tw>
+     Subject:   2017 ILAS Workshop on Phonetics and Phonology
+
+   http://linguistlist.org/issues/28/28-4074.html
+
+
+28.4075, Confs: Historical Ling, Syntax, Text/Corpus Ling, Typology/Estonia
+
+  1) From:      Guglielmo Inglese <guglielmo.inglese01@ateneopv.it>
+     Subject:   Constructions and Valency Changing Strategies in a Diachronic Perspective: Evidence from Indo-European and Beyond
+
+   http://linguistlist.org/issues/28/28-4075.html
+
+
+28.4076, Calls: Japanese, Korean, Ling Theories, Syntax/Japan
+
+  1) From:      Frank Richter <F.Richter@em.uni-frankfurt.de>
+     Subject:   The Clause Structure of Japanese and Korean
+
+   http://linguistlist.org/issues/28/28-4076.html
+
+
+28.4077, Calls: Cognitive Science, Computational Linguistics/USA
+
+  1) From:      Quanzhi Li <quanzhi.li@gmail.com>
+     Subject:   International Workshop on Big Data for Financial News and Data
+
+   http://linguistlist.org/issues/28/28-4077.html
+
+
+28.4078, Calls: Applied Linguistics/Japan
+
+  1) From:      Nicholas Marx <Nicholas.D.Marx@gmail.com>
+     Subject:   Task-Based Learning and Teaching in Asia 2018
+
+   http://linguistlist.org/issues/28/28-4078.html
+
+
+28.4079, Qs: The Survey of Present Tense
+
+  1) From:      Toyohisa Matsuoka <toyohisa.matsuoka.8i@stu.hosei.ac.jp>
+     Subject:   The Survey of Present Tense
+
+   http://linguistlist.org/issues/28/28-4079.html
+
+
+28.4080, FYI: EEBO corpus: 755 million words, 1470s-1690s
+
+  1) From:      Mark Davies <mark_davies@byu.edu>
+     Subject:   EEBO corpus: 755 million words, 1470s-1690s
+
+   http://linguistlist.org/issues/28/28-4080.html
+
+
+28.4081, Qs: Listserv & Resources for Child Language Research
+
+  1) From:      Haley De Korne <h.d.korne@iln.uio.no>
+     Subject:   Listserv & Resources for Child Language Research
+
+   http://linguistlist.org/issues/28/28-4081.html
+
+
+
+**********************   LINGUIST List Support   ***********************
+Please support the LL editors and operation with a donation at:
+            http://funddrive.linguistlist.org/donate/
+_______________________________________________
+LINGLITE mailing list, Settings and Unsubscribe at:
+http://listserv.linguistlist.org/mailman/listinfo/linglite
+
